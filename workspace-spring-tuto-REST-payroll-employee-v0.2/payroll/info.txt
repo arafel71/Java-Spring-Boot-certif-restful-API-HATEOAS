@@ -1,0 +1,7 @@
+start :
+
+choose
+
+
+On program PayrollApplication class, right click
+Run as : spring boot app
